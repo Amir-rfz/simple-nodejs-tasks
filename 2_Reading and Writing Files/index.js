@@ -1,5 +1,5 @@
 const fs = require('fs');
-const fsPromises = require('fs').promises;
+const fsPromises = require('fs').promises;//the second way to make the code syncrones
 
 const path = require('path');
 
@@ -24,19 +24,21 @@ fileOps();
 
 console.log('hello .....');
 
+//               the below code is a simple way to make the code syncrones
+
 // fs.writeFile(path.join(__dirname, 'files', 'reply.txt'),'hello back',(err) => {
 //     if(err) throw err;
 //     console.log('message replied')
 
 //     fs.appendFile(path.join(__dirname, 'files', 'reply.txt'),' no ',(err) => {
-//     if(err) throw err;
-//     console.log('message append')
+//          if(err) throw err;
+//          console.log('message append')
+
+//          fs.rename(path.join(__dirname, 'files', 'reply.txt'),path.join(__dirname, 'files', 'ali.txt'),(err) => {
+//              if(err) throw err;
+//              console.log('rename complete')
+//          })
 //     } )
-
-//     fs.rename(path.join(__dirname, 'files', 'reply.txt'),path.join(__dirname, 'files', 'ali.txt'),(err) => {
-//     if(err) throw err;
-//     console.log('rename complete')})
-
 // } )
 
 // fs.appendFile(path.join(__dirname, 'files', 'append.txt'),'lala ',(err) => {
