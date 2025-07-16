@@ -1,0 +1,68 @@
+20250709	20:28:25	b6f2a8fe-d51a-4a3e-8ca0-2bd33c07a9d8	/	GET
+20250709	20:28:25	9a21f423-3b36-4cdc-8b9a-4c4696d27f36	/css/style.css	GET
+20250709	20:28:27	cb151415-cf2c-4286-ae2e-485221bad1f1	/	GET
+20250709	20:28:27	b40b8c0d-2f45-4606-ae0b-372a33256df2	/css/style.css	GET
+20250709	20:28:32	a01dd27f-139f-41cb-9cdf-c2ab650e3b2a	/new-page.html	GET
+20250709	20:28:32	9c992976-6b52-4b11-87a8-e929da9d7a23	/css/style.css	GET
+20250709	20:28:32	d400571a-03b4-4f62-b919-d430fe286964	/img/img1.jpg	GET
+20250711	14:46:23	7cf90966-6078-425d-b284-d8e77e09e978	GET	undefined/
+20250711	14:46:23	700473cd-5fd8-4208-a49f-217bcdfb5644	GET	undefined/css/style.css
+20250711	14:46:50	777daa18-ad9f-4e26-8c5a-2c97742e3305	GET	undefined	/
+20250711	14:46:50	c544fa13-972f-4cf3-95b5-df74c3708aea	GET	undefined	/css/style.css
+20250711	14:49:32	2d963389-35bf-4da5-a24f-3151a0de25c2	GET	undefined	/
+20250711	14:49:32	99b49512-8ef1-48a8-bf42-092c7c6fba7d	GET	undefined	/css/style.css
+20250711	14:53:28	ceed5d43-e280-4a3c-beac-cbff4252e58a	GET	undefined	/
+20250711	14:53:28	b6f4b426-3c0f-4369-908c-30d7d6c57b69	GET	undefined	/css/style.css
+20250711	14:59:14	8babd5cb-1579-4673-ba5e-cc253b72e819	OPTIONS	https://www.google.com	/
+20250711	14:59:14	ac895ef2-cf8f-4967-b87f-5c600ba82999	GET	https://www.google.com	/
+20250711	16:35:39	78988b78-f70b-4b95-8e96-1563b741cbd1	GET	undefined	/
+20250711	16:35:40	e497db27-8452-47b6-9fb4-a6dd9e423533	GET	undefined	/css/style.css
+20250711	16:39:17	129319c9-f661-4c1f-a3eb-ab34218f076f	GET	undefined	/
+20250711	16:39:59	773a3e16-e396-4d82-971b-b68a770ca4b1	GET	undefined	/
+20250711	16:39:59	0b976a54-f35b-4b2e-a642-ac8e3d4c8d98	GET	undefined	/css/style.css
+20250711	16:42:38	9c41b21e-c306-4a3c-8b30-7456fef46c86	GET	undefined	/dave
+20250711	16:45:58	4b35bccc-25e0-4038-be26-53c7d9ea504d	GET	undefined	/dave
+20250711	16:45:58	399802e5-447a-4e2c-ac59-df2a6b5a6f4a	GET	undefined	/css/style.css
+20250711	16:46:07	3a930cfd-606c-4031-aaa0-cbf50de53cac	GET	undefined	/dave
+20250711	16:46:07	e824fe79-60af-4090-b7e2-2a6e386d3b33	GET	undefined	/css/style.css
+20250711	16:46:11	67f29f39-0825-4971-a449-9782d9ad894c	GET	undefined	/
+20250711	16:46:11	4132080a-2a28-491f-8025-943237428001	GET	undefined	/css/style.css
+20250711	16:48:20	492f6648-a1f4-4812-91b7-f85eb67bbd81	GET	undefined	/erg
+20250711	16:48:20	91df1e8b-1b04-4bc5-a731-23db9519f796	GET	undefined	/css/style.css
+20250711	16:48:28	013c58d5-a39d-40b0-b7db-703d7f428e87	GET	undefined	/
+20250711	16:48:28	2b6012e7-5809-424f-b961-7d46d4d4c9fc	GET	undefined	/css/style.css
+20250716	00:36:59	4d03be8f-49ba-45f5-865b-2fed869a0519	GET	undefined	/
+20250716	00:36:59	b40d92aa-0ae3-48df-919d-a43a6b6f84c5	GET	undefined	/css/style.css
+20250716	00:36:59	7985906a-06a4-4822-a8a6-7bd65e7d95b9	GET	undefined	/favicon.ico
+20250716	00:37:17	2e09de78-6081-4e85-9db3-c74ef797034e	GET	undefined	/subdir
+20250716	00:37:37	4dbba3a3-ecbd-4f12-af7c-18990e4663e3	GET	undefined	/subdir/test.html
+20250716	00:37:43	f222a8bf-daf3-4bdd-9bc5-7a8363aa8db9	GET	undefined	/subdir/dsd
+20250716	00:37:43	502d41dd-5bbe-49d4-ab1d-abdae6701bed	GET	undefined	/subdir/css/style.css
+20250716	00:38:11	a2d8d31f-f930-413b-9382-72bf14f0f735	GET	undefined	/subd
+20250716	00:38:12	c09258fb-ea01-4ba9-9050-e41d7eb74796	GET	undefined	/css/style.css
+20250716	00:40:01	d3d5ea45-d722-4a1e-bda9-9d99ef8f08f1	GET	undefined	/subdir/dsd
+20250716	00:40:01	7acc1334-1001-4424-9472-b869776e092b	GET	undefined	/subdir/css/style.css
+20250716	00:44:15	ac9abe00-c2b0-49cf-a594-e9c9a58e4f81	GET	undefined	/
+20250716	00:44:16	eed449ee-1ac8-4291-bda1-9b529b15787f	GET	undefined	/
+20250716	00:44:26	957c4283-665b-4db6-bd34-2171735bb518	GET	undefined	/
+20250716	00:44:50	ae750e62-49e1-4294-b12c-764ac71e9d8f	GET	undefined	/
+20250716	00:44:50	7cd8773b-f4fc-4bd2-a156-89b570d25176	GET	undefined	/css/style.css
+20250716	00:46:35	5e7300e3-e369-43e6-9836-0c8adc9f5aae	GET	undefined	/
+20250716	00:46:35	66df3876-d5d8-4d67-bddd-7b5993202071	GET	undefined	/css/style.css
+20250716	00:46:42	22d04013-c153-4db0-8f7b-7ccdc5025f19	GET	undefined	/new-page.html
+20250716	00:46:42	2192dfd3-7fbe-42f7-9489-750f42dcaf47	GET	undefined	/css/style.css
+20250716	00:46:42	ffee3c3f-1750-418f-ad8d-4ce85bc7a223	GET	undefined	/img/img1.jpg
+20250716	00:46:46	d7f1b449-02f7-4b52-9980-7661b55e32ff	GET	undefined	/new-page
+20250716	00:46:46	eb114ead-d9c7-4bfe-b21c-550de6bf65c2	GET	undefined	/css/style.css
+20250716	00:46:46	d23fa6f6-13b5-4358-abe2-e000cc39359d	GET	undefined	/img/img1.jpg
+20250716	10:54:47	9f27cfdc-4ee8-4db5-bbf7-417f0b4a2fef	GET	undefined	/
+20250716	10:54:47	fe434b86-a4fe-4a44-8ff4-b88812ce0371	GET	undefined	/css/style.css
+20250716	10:54:47	d4774c01-a145-4270-9547-9d14c41bf99b	GET	undefined	/favicon.ico
+20250716	11:19:07	d360c4b8-4022-4bc2-b769-ba052293edb8	GET	undefined	/
+20250716	11:19:07	9ffbbc02-65be-4f99-88c5-0e76b610c6b7	GET	undefined	/css/style.css
+20250716	11:19:11	a3d6f87d-df7a-4375-b527-704fb6082803	GET	undefined	/employees
+20250716	11:20:16	7c398075-c0a7-46ca-8b96-1483aab54a59	POST	undefined	/employees
+20250716	11:21:03	97da42b6-a27a-4168-977a-16774d7fcead	POST	undefined	/employees
+20250716	11:21:55	8208fcf5-cbf4-4076-bf93-1ed3df4df7aa	PUT	undefined	/employees
+20250716	11:22:40	955feef7-dbe3-40b6-aa19-c39d0c439964	DELETE	undefined	/employees
+20250716	11:23:02	ddb878be-405a-4494-b718-d03a18182c01	GET	undefined	/employees/1
