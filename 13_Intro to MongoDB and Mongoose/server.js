@@ -1,3 +1,4 @@
+require('dotenv').config(); //load environment variables from .env file
 const express = require('express');
 const app = express();
 const path = require('path');
@@ -8,8 +9,12 @@ const errorHandler = require('./middleware/errorHandler');
 const verifyJWT = require('./middleware/verifyJWT');
 const cookieParser = require('cookie-parser');
 const credentials = require('./middleware/credentials');
+const mongoose = require('mongoose');
+const connectDB = require('./config/dbConn');
 const { el } = require('date-fns/locale');
 const PORT = process.env.PORT || 8080;
+
+connectDB(); // Connect to MongoDB
 
 //custom middleware logger
 app.use(logger);//logger defines in the logEvents.js file
@@ -56,6 +61,11 @@ app.all(/'*/, (req, res) => {
 //custom error handler
 app.use(errorHandler);
 
-app.listen(PORT, ()=>{
+mongoose.connection.once('open', () => {
+    console.log('Connected to MongoDB');
+    app.listen(PORT, ()=>{
     console.log(`server is running on port ${PORT}`)
-})
+    });
+});
+
+
