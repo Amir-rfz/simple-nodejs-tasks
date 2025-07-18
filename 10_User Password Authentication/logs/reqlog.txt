@@ -75,3 +75,13 @@
 20250716	12:01:25	357fc9d9-2d83-463b-ae1a-9f2f498393c7	GET	undefined	/employees/2
 20250716	16:29:26	92d8592c-18e0-4439-949c-f99960e7fafd	POST	undefined	/register
 20250716	16:30:24	59bfe929-7d39-446a-bd86-887697bd7493	POST	undefined	/register
+20250718	11:29:53	688db8a7-bc99-4a77-a653-de51e3191b62	GET	undefined	/
+20250718	11:29:53	ed0ba1df-9f8a-4b2b-95ea-daba0fdbe194	GET	undefined	/css/style.css
+20250718	11:29:53	f773ee65-5a32-4da8-a516-b8a6f80239cc	GET	undefined	/favicon.ico
+20250718	11:31:58	a806387f-30da-4153-8a23-80d89c9987e8	POST	undefined	/auth
+20250718	11:32:23	a6bcf3d3-30be-4fce-bd60-fff81cebaedd	POST	undefined	/auth
+20250718	11:32:30	409950bb-5989-443b-8164-004ed4824ba4	POST	undefined	/auth
+20250718	11:32:54	a9b4e9a1-dab0-4f62-bdaa-5f6158174484	POST	undefined	/auth
+20250718	11:33:08	5589480c-194e-4a19-91c0-04fb7c44217f	POST	undefined	/registeer
+20250718	11:33:22	3eb249c1-040b-423e-bb48-6af806b51cbd	POST	undefined	/register
+20250718	11:33:31	6abc34e3-d256-40e9-b9bf-6705a10eba8a	POST	undefined	/auth

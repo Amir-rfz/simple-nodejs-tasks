@@ -22,6 +22,7 @@ app.use('/', express.static(path.join(__dirname, '/public')));
 
 app.use('/', require('./routes/root')); //mounting the root router
 app.use('/register', require('./routes/register'));
+app.use('/auth', require('./routes/auth'));
 app.use('/employees', require('./routes/api/employees'))
 
 // if the user tries to access any other route, we will send a 404 page
