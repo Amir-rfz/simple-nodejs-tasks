@@ -100,3 +100,13 @@
 20250718	16:40:28	e380e211-baf4-40a8-ac40-4e0613ee3fb5	POST	undefined	/auth
 20250718	16:40:33	3a22d05e-8099-41a3-b815-b2b2eb879d5f	GET	undefined	/logout
 20250718	16:40:48	8de02c1f-6957-4fb7-ae28-c9ff2ac9d24a	GET	undefined	/refresh
+20250718	20:37:02	1d91e9d6-1d02-497d-8381-ed1c3faa6539	POST	undefined	/auth
+20250718	20:37:52	e2277968-bf0c-4834-83dd-964605add1e0	GET	undefined	/employees
+20250718	20:39:36	79f682a3-7bbe-4e7f-9dc6-ccd910a282a5	POST	undefined	/auth
+20250718	20:39:53	f35ca7c6-a5c7-44d7-b942-bcb4205b3b2b	GET	undefined	/employees
+20250718	20:40:26	d7975671-e895-4ddd-ba96-96675446196e	POST	undefined	/employees
+20250718	20:41:52	88f4bd16-47ee-41b4-aa00-64e950213941	POST	undefined	/employees
+20250718	20:41:53	fdeb470f-50d4-4c2c-b90c-3ef0b1c8b42e	POST	undefined	/employees
+20250718	20:42:41	abecf041-c197-4659-8651-4c4c17b0bb50	POST	undefined	/auth
+20250718	20:42:50	d87d4d40-35f4-4081-9ff2-87d3aec14bcf	POST	undefined	/employees
+20250718	20:43:23	e36fc3a1-859b-4895-b944-0a44f7d1ab74	DELETE	undefined	/employees
