@@ -1,0 +1,5 @@
+20250711	16:39:17	f1e544b6-b9d0-4544-bc5d-ac2d3dd751b9	Error: Not allowed by CORS
+20250716	00:44:15	98260502-2abe-4859-b813-a7b48f5cbe6f	Error: ENOENT: no such file or directory, stat 'C:\Users\Asus\Desktop\nodejs_train\simple-nodejs-tasks\8_Setup Routes with Express Router\routes\views\index.html'
+20250716	00:44:16	370ee3ae-eff1-4453-80f1-271edf347c76	Error: ENOENT: no such file or directory, stat 'C:\Users\Asus\Desktop\nodejs_train\simple-nodejs-tasks\8_Setup Routes with Express Router\routes\views\index.html'
+20250716	00:44:26	0bf977e4-c94c-4a92-841e-111b67ebb1ed	Error: ENOENT: no such file or directory, stat 'C:\Users\Asus\Desktop\nodejs_train\simple-nodejs-tasks\8_Setup Routes with Express Router\routes\views\index.html'
+20250716	11:20:16	ff34c3a2-78f4-41fb-bebe-fe6f9d804c51	TypeError: Cannot read properties of undefined (reading 'firstname')
