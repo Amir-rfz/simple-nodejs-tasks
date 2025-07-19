@@ -110,3 +110,5 @@
 20250718	20:42:41	abecf041-c197-4659-8651-4c4c17b0bb50	POST	undefined	/auth
 20250718	20:42:50	d87d4d40-35f4-4081-9ff2-87d3aec14bcf	POST	undefined	/employees
 20250718	20:43:23	e36fc3a1-859b-4895-b944-0a44f7d1ab74	DELETE	undefined	/employees
+20250719	08:44:18	57bc6685-f646-4532-b496-1c3641aaa21d	POST	undefined	/register
+20250719	08:45:12	68fcb552-0054-4849-b588-b705c92e2ec1	POST	undefined	/register
